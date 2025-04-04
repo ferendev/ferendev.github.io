@@ -1,2 +1,4 @@
 [COLOR dodgerblue][B]Version 1.0.0.1[/B][/COLOR]
 - Added Rating Poster Database support (Thank you to FenlightAnonyMouse for original implementation <3)
+- Fixed issue with opening Real Debrid cloud storage
+- Added Real Debrid Turkey workaround
